@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a href="http://getbootstrap.com">
   <img src="http://twitter.github.com/bootstrap/assets/img/bootstrap-docs-readme.png" width="100px">
 </a>
@@ -115,3 +116,9 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+=======
+Bootstrap-2.3.2-Documentation
+=============================
+
+Panduan cara menggunakan Bootstrap 2.3.2 via HTML
+>>>>>>> c90ed32e2e64351ee90302a71db18a751c705dee
